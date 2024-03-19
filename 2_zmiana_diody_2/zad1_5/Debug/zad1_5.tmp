@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\Debug\zad1_5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>zad1_5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>zad1_5.map</FILE>
+  <FILE>zad1_5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\main.asm</FILE><LINE>19</LINE></start>
+  <lewo><FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\main.asm</FILE><LINE>42</LINE></lewo>
+  <prawo><FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\main.asm</FILE><LINE>48</LINE></prawo>
+  <czekaj><FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\main.asm</FILE><LINE>54</LINE></czekaj>
+  <w1><FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\main.asm</FILE><LINE>56</LINE></w1>
+  <w2><FILE>C:\Users\Student\Desktop\PAM_267072\267072\zad1_5\zad1_5\main.asm</FILE><LINE>59</LINE></w2>
+ </LABELS>
+</ASSEMBLER_INFO>
